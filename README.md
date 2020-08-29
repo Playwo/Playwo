@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2020 - 27 August, 2020
+Week: 21 August, 2020 - 28 August, 2020
 
 C#           8 hrs 23 mins   █████████████▓░░░░░░░░░░░   55.26 % 
 JavaScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 

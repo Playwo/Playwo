@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
 C#           10 hrs 56 mins  ███████████░░░░░░░░░░░░░░   43.58 % 
 Other        9 hrs 56 mins   ██████████░░░░░░░░░░░░░░░   39.60 % 

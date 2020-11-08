@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
 Other        14 hrs 59 mins  ███████████▒░░░░░░░░░░░░░   44.96 % 
 C#           12 hrs 53 mins  █████████▓░░░░░░░░░░░░░░░   38.67 % 

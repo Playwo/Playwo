@@ -8,11 +8,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Dev Breakdown
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          USERNAME: Playwo
           SHOW_TITLE: true

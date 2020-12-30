@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2020 - 28 December, 2020
+Week: 22 December, 2020 - 29 December, 2020
 
 C#           6 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   35.37 % 
 Racket       5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 % 

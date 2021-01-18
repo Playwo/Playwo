@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
 C#           6 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   35.37 % 
 Racket       5 hrs 27 mins   ███████░░░░░░░░░░░░░░░░░░   27.75 % 

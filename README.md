@@ -1,7 +1,7 @@
 📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2021 - 20 February, 2021
+Week: 14 February, 2021 - 21 February, 2021
 
 C#           8 hrs 23 mins   █████████████▓░░░░░░░░░░░   55.26 % 
 JavaScript   2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
